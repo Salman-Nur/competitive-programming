@@ -1,0 +1,10 @@
+﻿int a = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine());
+int c = int.Parse(Console.ReadLine());
+int p = a + (b * c);
+int q = a * (b + c);
+int r = a * b * c;
+int s = (a + b) * c;
+int t = a + b + c;
+int[] arr = { p, q, r, s, t };
+Console.WriteLine(arr.Max());
