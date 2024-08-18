@@ -1,2 +1,5 @@
-# competitive-programming
-In my view, CP enhances critical thinking and problem-solving skills.
+# Competitive-Programming
+# Only from codeforces
+
+## Branches
+### c++, c-sharp
