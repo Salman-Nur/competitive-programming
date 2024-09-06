@@ -1,4 +1,2 @@
 # Competitive-Programming
-
-## Branches
-### c++, c-sharp, leet-code
+# Only from LeetCode
