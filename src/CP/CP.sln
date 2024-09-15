@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome Number_9", "Palindrome Number_9\Palindrome Number_9.csproj", "{1E023200-4902-4704-8DB8-116E82C78032}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome Number", "Palindrome Number_9\Palindrome Number.csproj", "{1E023200-4902-4704-8DB8-116E82C78032}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge Two Sorted Lists", "Merge Two Sorted Lists\Merge Two Sorted Lists.csproj", "{A8076D9A-F846-4A88-89D2-367CFFDB77FA}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Common Prefix_14", "Longest Common Prefix-14\Longest Common Prefix_14.csproj", "{539FE471-0D19-4896-9E54-C954AA191A41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Common Prefix", "Longest Common Prefix-14\Longest Common Prefix.csproj", "{539FE471-0D19-4896-9E54-C954AA191A41}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Length of Last Word", "Length of Last Word\Length of Last Word.csproj", "{77A313A8-A291-428F-AB88-4E004BD71055}"
 EndProject
@@ -21,10 +19,6 @@ Global
 		{1E023200-4902-4704-8DB8-116E82C78032}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E023200-4902-4704-8DB8-116E82C78032}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E023200-4902-4704-8DB8-116E82C78032}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A8076D9A-F846-4A88-89D2-367CFFDB77FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8076D9A-F846-4A88-89D2-367CFFDB77FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8076D9A-F846-4A88-89D2-367CFFDB77FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8076D9A-F846-4A88-89D2-367CFFDB77FA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{539FE471-0D19-4896-9E54-C954AA191A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{539FE471-0D19-4896-9E54-C954AA191A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{539FE471-0D19-4896-9E54-C954AA191A41}.Release|Any CPU.ActiveCfg = Release|Any CPU

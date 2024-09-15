@@ -6,10 +6,10 @@ public class Program
     {
         Solution solution = new Solution();
 
-        string input = "Hello World";
+        string input = "Hello World  ";
 
         int length = solution.LengthOfLastWord(input);
-        Console.WriteLine("Length of the last word: " + length);
+        Console.WriteLine(length);
     }
 }
 

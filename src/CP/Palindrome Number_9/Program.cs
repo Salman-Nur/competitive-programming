@@ -1,12 +1,31 @@
-﻿string str1 = Console.ReadLine();
-
-var str2 = new string(str1.Reverse().ToArray());
-
-if (str1 == str2)
+﻿
+public class Program
 {
-    Console.WriteLine("true");
+    public static void Main(string[] args)
+    {
+        Solution solution = new Solution();
+
+        var input = 121;
+
+        var IsPalindrome = solution.IsPalindrome(input);
+        Console.WriteLine(IsPalindrome);
+    }
 }
-else
+
+
+public class Solution
 {
-    Console.WriteLine("false");
+    public bool IsPalindrome(int x)
+    {
+        string str1 = x.ToString();
+        var str2 = new string(str1.Reverse().ToArray());
+        if (str1 == str2)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
 }
