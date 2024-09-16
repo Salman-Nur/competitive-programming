@@ -12,6 +12,7 @@ public class Solution
 {
     public void ReverseString(char[] s)
     {
+        //s = s.Reverse().ToArray();
         Array.Reverse(s);
     }
 }

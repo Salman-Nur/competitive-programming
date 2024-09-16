@@ -25,6 +25,6 @@ public class Solution
         //result = result.TrimEnd();
         //return result;
 
-        return String.Join(" ", s.Split(" ").Take(k));
+        return string.Join(" ", s.Split(" ").Take(k));
     }
 }
